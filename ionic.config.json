@@ -1,0 +1,8 @@
+{
+  "name": "qrapp",
+  "app_id": "3e978a90",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
